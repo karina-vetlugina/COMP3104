@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 4ea6ca474b0bb0080d8504c2611691a4f445b774 karina-vetlugina <karinavetlugina05@gmail.com> 1757547237 -0400	commit (initial): added header for readme file
-4ea6ca474b0bb0080d8504c2611691a4f445b774 4ea6ca474b0bb0080d8504c2611691a4f445b774 karina-vetlugina <karinavetlugina05@gmail.com> 1757547346 -0400	Branch: renamed refs/heads/master to refs/heads/main
-4ea6ca474b0bb0080d8504c2611691a4f445b774 d505ee7769b8d7ee929621705605f3983a91c49d karina-vetlugina <karinavetlugina05@gmail.com> 1758242292 -0400	commit: GitHub action workflow file added
-d505ee7769b8d7ee929621705605f3983a91c49d ea7595cd2502007d81f79cbbc6673dae74849321 karina-vetlugina <karinavetlugina05@gmail.com> 1758821263 -0400	commit: node project created
-ea7595cd2502007d81f79cbbc6673dae74849321 482e1713749ceebe0fe14d72f2e6f31b160a9a58 karina-vetlugina <karinavetlugina05@gmail.com> 1758821533 -0400	commit: pull request template added
-482e1713749ceebe0fe14d72f2e6f31b160a9a58 b621157bb8cec8393d02eb3496560a66fe6f7b16 karina-vetlugina <karinavetlugina05@gmail.com> 1758821868 -0400	commit: readme file modified
-b621157bb8cec8393d02eb3496560a66fe6f7b16 94357128fa597178752d950529fe0cb349518c10 karina-vetlugina <karinavetlugina05@gmail.com> 1758822155 -0400	commit: ci.yml modified
